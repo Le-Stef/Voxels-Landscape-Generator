@@ -100,7 +100,7 @@ Pour une meilleure performance:
 | size=20, height_factor=8, octaves=3, seed=209, water_level=0.2 | ![Exemple 1](voxel_landscape_8df2edc5ffc9.png) |
 | size=50, height_factor=25, octaves=4, seed=346, water_level=0.2 | ![Exemple 2](voxel_landscape_9a49c8be5af1.png) |
 | size=100, height_factor=50, octaves=5, seed=880, water_level=0.2 | ![Exemple 3](voxel_landscape_883ce044974d.png) |
-| size=100, height_factor=50, octaves=5, seed=880, water_level=0.4  | ![Exemple 4](voxel_landscape_883ce044974d.png) |
+| size=100, height_factor=50, octaves=5, seed=880, water_level=0.4  | ![Exemple 4](voxel_landscape_9b13dd611225.png) |
 
 ## 📜 Licence
 
