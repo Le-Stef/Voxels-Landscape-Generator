@@ -1,5 +1,7 @@
 # Générateur de Paysages en Voxels (Terraforming)
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 ![Exemple de paysage généré](voxel_landscape_9b13dd611225.png)
 
 Un générateur procédural de paysages en 3D utilisant des voxels, écrit en Python. Ce projet permet de créer des terrains avec différents biomes, basés sur l'altitude, grâce à un algorithme de bruit de Perlin.
@@ -104,4 +106,4 @@ Pour une meilleure performance:
 
 ## Licence
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence Apache 2.0 - voir le fichier [LICENSE-APACHE.txt](LICENSE-APACHE) pour plus de détails.
