@@ -4,7 +4,7 @@
 
 Un générateur procédural de paysages en 3D utilisant des voxels, écrit en Python. Ce projet permet de créer des terrains avec différents biomes, basés sur l'altitude, grâce à un algorithme de bruit de Perlin.
 
-## 🌟 Fonctionnalités
+## Fonctionnalités
 
 - Génération procédurale de terrains avec du bruit de Perlin
 - Représentation en voxels colorés 
@@ -19,7 +19,7 @@ Un générateur procédural de paysages en 3D utilisant des voxels, écrit en Py
 - Barres de progression pendant la génération
 - Paramètres personnalisables
 
-## 📋 Prérequis
+## Prérequis
 
 - Python 3.6+
 - Les bibliothèques suivantes:
@@ -27,7 +27,7 @@ Un générateur procédural de paysages en 3D utilisant des voxels, écrit en Py
   pip install numpy matplotlib perlin-noise tqdm
   ```
 
-## 🚀 Installation
+## Installation
 
 1. Clonez ce repository:
    ```
@@ -40,7 +40,7 @@ Un générateur procédural de paysages en 3D utilisant des voxels, écrit en Py
    pip install -r requirements.txt
    ```
 
-## 💻 Utilisation
+## Utilisation
 
 Exécutez le script principal:
 
@@ -75,7 +75,7 @@ Terminé ! L'image a été enregistrée sous 'voxel_landscape_a1b2c3d4e5f6.png'
 Paramètres utilisés: size=20, height_factor=8, octaves=3, seed=42, water_level=0.2
 ```
 
-## 🔧 Avancé
+## Avancé
 
 ### Identifiants uniques
 
@@ -93,7 +93,7 @@ Pour une meilleure performance:
 - Réduisez la taille du terrain (`size`)
 - Diminuez le nombre d'octaves (`octaves`)
 
-## 📊 Exemples de paysages
+## Exemples de paysages
 
 | Paramètres | Aperçu |
 |------------|--------|
@@ -102,6 +102,6 @@ Pour une meilleure performance:
 | size=100, height_factor=50, octaves=5, seed=880, water_level=0.2 | ![Exemple 3](voxel_landscape_883ce044974d.png) |
 | size=100, height_factor=50, octaves=5, seed=880, water_level=0.4  | ![Exemple 4](voxel_landscape_9b13dd611225.png) |
 
-## 📜 Licence
+## Licence
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
