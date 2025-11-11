@@ -106,4 +106,4 @@ Pour une meilleure performance:
 
 ## Licence
 
-Ce projet est sous licence Apache 2.0 - voir le fichier [LICENSE-APACHE.txt](LICENSE-APACHE) pour plus de détails.
+Ce projet est sous licence Apache 2.0 - voir le fichier [LICENSE-APACHE](LICENSE-APACHE.txt) pour plus de détails.
